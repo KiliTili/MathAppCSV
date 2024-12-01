@@ -1,0 +1,6 @@
+equation,solution
+\int x dx,0.5x^2
+2+2,4
+\frac{d}{dx} x^2,2x
+\sqrt{16},4
+e^{i\pi}+1,0

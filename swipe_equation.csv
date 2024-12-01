@@ -1,0 +1,6 @@
+equation,solution,isCorrect
+"\int x dx = 1","0.5x^2",false
+"2+2 = 4","4",false
+"\frac{d}{dx} x^2 = x","2x",false
+"\sqrt{16} =  4","4",true
+"e^{i\pi}+1 = 0","0",true
