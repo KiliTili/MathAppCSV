@@ -1,4 +1,4 @@
-equation,solution,isCorrect,2ways
+equation,solution,isCorrect,twoway
 "\int x dx = 1","0.5x^2",false, false
 "2+2 = 4","4",true, false 
 "\frac{d}{dx} x^2 = x","2x",false, false
