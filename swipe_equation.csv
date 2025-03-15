@@ -1,6 +1,10 @@
-equation,solution,isCorrect
-"\int x dx = 1","0.5x^2",false
-"2+2 = 4","4",true
-"\frac{d}{dx} x^2 = x","2x",false
-"\sqrt{16} =  4","4",true
-"e^{i\pi}+1 = 0","0",true
+equation,solution,isCorrect,2ways
+"\int x dx = 1","0.5x^2",false, false
+"2+2 = 4","4",true, false 
+"\frac{d}{dx} x^2 = x","2x",false, false
+"\sqrt{16} =  4","4",true, false
+"e^{i\pi}+1 = 0","0",true, false
+"2x + 5 = 15", "x = 5", true, true
+"3x - 7 = 14", "x = 7", true, true
+"4x = 20", "x = 5", true, true
+"5x + 2 = 22", "x = 4", true, true
